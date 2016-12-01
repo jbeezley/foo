@@ -1,1 +1,1 @@
-import 'plugins/foo/node/geojs';
+import 'girder_plugins/foo/node/geojs';
