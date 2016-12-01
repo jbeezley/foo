@@ -1,0 +1,6 @@
+{
+  "name": "foo",
+  "npm": {
+    "file": "package.json"
+  }
+}
